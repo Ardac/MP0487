@@ -5,7 +5,10 @@
 
 package dam_ed04_actividad;
 
-
+/**
+ *
+ * @author miguel
+ */
 public class CCuenta {
 
 
@@ -14,7 +17,9 @@ public class CCuenta {
     private double saldo;
     private double tipoInterés;
 
-
+    /**
+     *
+     */
     public CCuenta()
     {
     }
@@ -149,7 +154,7 @@ public class CCuenta {
 
     /**
      * Setter de saldo
-     * @param Double saldo
+     * @param saldo
      */
     public void setSaldo(double saldo) {
         this.saldo = saldo;

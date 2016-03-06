@@ -8,9 +8,16 @@
  */
 package dam_ed04_actividad;
 
-
+/**
+ *
+ * @author miguel
+ */
 public class Main {
 
+    /**
+     *
+     * @param args
+     */
     public static void main(String[] args) {
         CCuenta cuenta1;
         double saldoActual;
